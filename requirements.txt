@@ -1,0 +1,3 @@
+streamlit
+arabic-reshaper
+python-bidi
